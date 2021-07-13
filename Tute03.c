@@ -11,6 +11,8 @@ sum = 1+2+3+....+ 99+100 = 5050
 n -> 1-
 sum = 1+2+3+...+10 = 55 */
 
+//IT21114526
+
 #include <stdio.h>
 int main() {
   int sum = 0, n, i;
